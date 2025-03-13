@@ -1,1 +1,1 @@
-# e_ticaret_veribilimi
+# Acunmedya Akademi Veri Bilimi - E Ticaret Uygulaması
